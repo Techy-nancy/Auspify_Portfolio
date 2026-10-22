@@ -1,6 +1,6 @@
 # Auspify Portfolio
 
-Personal portfolio for Sonia, built with React. It has four pages: Home, About, Projects, and Contact. The layout works on a wide screen and on a phone.
+Personal portfolio from Sonia, built with React. It has four pages: Home, About, Projects, and Contact. The layout works on a wide screen and on a phone.
 
 ## What I did
 
